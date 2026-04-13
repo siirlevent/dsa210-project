@@ -15,6 +15,17 @@ The goal of this project is to analyze a real-world dataset and apply data scien
 6. Visualization and reporting
 
 ## Tools
-Python, Pandas, NumPy, Matplotlib, Scikit-learn
+Python, Pandas, NumPy, Matplotlib, SciPy
 
-## Repository Structure
+## Current Progress
+
+For the current milestone, I completed:
+- data collection using the AIST++ motion dataset,
+- exploratory data analysis on genre distribution and sequence lengths,
+- extraction of simple motion-based features from `smpl_trans`,
+- visualization of motion patterns across genres,
+- hypothesis testing using ANOVA.
+
+## Preliminary Findings
+
+Initial results suggest that average motion differs significantly across dance genres. This indicates that motion-based features may be useful for dance genre classification.
