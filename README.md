@@ -29,3 +29,7 @@ For the current milestone, I completed:
 ## Preliminary Findings
 
 Initial results suggest that average motion differs significantly across dance genres. This indicates that motion-based features may be useful for dance genre classification.
+
+## Note
+
+The raw motion files and ignore list were used locally during analysis and are not included in the repository. The notebook contains the executed outputs used for milestone evaluation.
