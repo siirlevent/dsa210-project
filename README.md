@@ -25,7 +25,10 @@ For the current milestone, I completed:
 - extraction of simple motion-based features from `smpl_trans`,
 - visualization of motion patterns across genres,
 - hypothesis testing using ANOVA.
-
+  
+- trained and compared Logistic Regression, KNN, and Random Forest models,
+- evaluated model performance using accuracy and a confusion matrix,
+- interpreted classification results and discussed limitations and future work.
 ## Preliminary Findings
 
 Initial results suggest that average motion differs significantly across dance genres. This indicates that motion-based features may be useful for dance genre classification.
